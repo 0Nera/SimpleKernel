@@ -1,0 +1,1 @@
+#define hlt() asm("hlt")
